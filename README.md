@@ -25,7 +25,7 @@ This was a challenge to reproduce as precisely as possible an image design provi
 
 - Solution URL: https://github.com/ajaonary4-dev/FrontendMentor-QR-code-component.git
 
-- Live Site URL: 
+- Live Site URL:  https://ajaonary4-dev.github.io/FrontendMentor-QR-code-component/
 
 ## My process
 
